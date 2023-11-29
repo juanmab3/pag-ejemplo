@@ -1,0 +1,16 @@
+* {margin: 0;
+padding: 0;
+}
+h1 {text-align: center;
+background-color: rgb(0, 0, 0);
+color: aliceblue;font-family: Georgia, 'Times New Roman', Times, serif; padding: 20px;}
+a {text-align: center;}
+.link1 {text-align: center;}
+ul {text-align: center; background-color: blue; padding: 10px;}
+aside {text-align: center;}
+img {padding-left: 450px;
+border-radius: 1000% ;
+width: 200px;
+height: 350px;
+object-fit: cover;}
+
